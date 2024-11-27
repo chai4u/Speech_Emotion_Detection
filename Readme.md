@@ -7,4 +7,4 @@ This project classifies emotions from speech data using an LSTM neural network.
 ### Tools and Libraries
 - Python
 - Librosa
-- Keras/TensorFlow
+- Keras
